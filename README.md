@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center"><b>Hi, I'm Kanin Sukittivarapunt </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A third-year Information and Communication Engineering at Chulalongkorn University</h3>
+
+### About Me
+- 😄 My nickname is New
+- ✨ Skills: Python, HTML, CSS, JavaScript (TypeScript), React.js
+- 🌱 I’m currently learning frontend development with Next.js
+- 📫 You can reach me via kanin.suk@outlook.com
 
 <!--
 **Kaninboy/Kaninboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
