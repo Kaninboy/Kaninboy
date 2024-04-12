@@ -3,8 +3,9 @@
 
 ### About Me
 - 😄 My nickname is New
-- ✨ Skills: Python, Java, C#, HTML, CSS, JavaScript (TypeScript), React.js
+- ✨ Skills: Python, Java, C#, HTML, CSS, JavaScript (TypeScript), React.js, Go
 - 🌱 I’m currently learning frontend development with Next.js
+- 🌱 And also learning backend development with Gin and GORM
 - 📫 You can reach me via kanin.suk@outlook.com
 
 ### Additional Projects
