@@ -6,7 +6,9 @@
     <summary><h2 style="display: inline-block">About Me</h2></summary>
     <p>You can call me New 😎</p>
     <p>I am currently learning full-stack web development 💻</p>
-    <p>You can reach me via ✉️ <span><a href="mailto:kanin.suk@outlook.com">kanin.suk@outlook.com</a></span></p>
+    <p>You can reach me via:</p>
+    <a href="https://www.linkedin.com/in/kanin-sukittivarapunt"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" /></a>
+    <a href="mailto:kanin.suk@outlook.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=outlook" /></a>
   </ul>
 </div>
 
@@ -14,12 +16,22 @@
   <ul align="left">
     <summary><h2 style="display: inline-block">Technologies 🧑🏻‍💻</h2></summary>
   </ul>
+  <h3 style="display: inline-block">Programming Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,js,go,cs" />
   </a>
-  <p>
-    <img src="https://skillicons.dev/icons?i=py,java,go,mysql,prisma,docker,linux" />
-  </p>
+  <h3 style="display: inline-block">Front-end Web Development</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  </a>
+  <h3 style="display: inline-block">Back-end Web Development and Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,nodejs,prisma,mysql,sqlserver,mongo" />
+  </a>
+  <h3 style="display: inline-block">Tools and Platforms</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,digitalocean,azure,figma,postman" />
+  </a>
 </div>
 
 <div id="user-content-toc">
