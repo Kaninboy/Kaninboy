@@ -17,19 +17,19 @@
     <summary><h2 style="display: inline-block">Technologies 🧑🏻‍💻</h2></summary>
   </ul>
   <h3 style="display: inline-block">Programming Languages</h3>
-  <a href="https://skillicons.dev">
+  <a href="#user-content-toc">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,js,go,cs" />
   </a>
   <h3 style="display: inline-block">Front-end Web Development</h3>
-  <a href="https://skillicons.dev">
+  <a href="#user-content-toc">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind" />
   </a>
   <h3 style="display: inline-block">Back-end Web Development and Databases</h3>
-  <a href="https://skillicons.dev">
+  <a href="#user-content-toc">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=go,nodejs,prisma,mysql,sqlserver,mongo" />
   </a>
   <h3 style="display: inline-block">Tools and Platforms</h3>
-  <a href="https://skillicons.dev">
+  <a href="#user-content-toc">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,digitalocean,azure,figma,postman" />
   </a>
 </div>
