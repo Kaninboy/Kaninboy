@@ -39,7 +39,7 @@
     <summary><h2 style="display: inline-block">Additional Projects</h2></summary>
       <span>Game Development Projects with Socket Programming:</span> <a href="https://bitbucket.org/netcentric/findmymines/src/master/">FindMyMines</a> and <a href="https://bitbucket.org/netcentric/fmm_be/src/master/">FindMyMines Server</a>
   </ul>
-  <a href="https://skillicons.dev">
+  <a href="https://bitbucket.org/netcentric/findmymines/src/master/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=bitbucket,cs,unity" />
   </a>
 </div>
