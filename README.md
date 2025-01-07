@@ -18,7 +18,7 @@
   </ul>
   <h3 style="display: inline-block">Programming Languages</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,js,go,cs" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,js,ts,go,cs" />
   </a>
   <h3 style="display: inline-block">Front-end Web Development</h3>
   <a href="#user-content-toc">
