@@ -20,9 +20,9 @@
   <a href="#user-content-toc">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,js,ts,go,cs" />
   </a>
-  <h3 style="display: inline-block">Front-end Web Development</h3>
+  <h3 style="display: inline-block">Front-end Web Development and Testing</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,playwright" />
   </a>
   <h3 style="display: inline-block">Back-end Web Development and Databases</h3>
   <a href="#user-content-toc">
@@ -30,7 +30,7 @@
   </a>
   <h3 style="display: inline-block">Tools and Platforms</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,digitalocean,azure,figma,postman" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,aws,digitalocean,figma,postman" />
   </a>
 </div>
 
