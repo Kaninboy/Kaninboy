@@ -22,15 +22,19 @@
   </a>
   <h3 style="display: inline-block">Front-end Web Development and Testing</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,playwright" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,playwright" />
   </a>
   <h3 style="display: inline-block">Back-end Web Development and Databases</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,nodejs,prisma,mysql,sqlserver,mongo" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,gin,nodejs,prisma,mysql,sqlserver,postgresql,mongo" />
+  </a>
+  <h3 style="display: inline-block">Data Analytics</h3>
+  <a href="#user-content-toc">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bigquery,googlecolab,numpy,pandas,matplotlib" />
   </a>
   <h3 style="display: inline-block">Tools and Platforms</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,aws,digitalocean,figma,postman" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,digitalocean,aws,lambda,rds,s3,postman,figma,jira,miro&perline=9" />
   </a>
 </div>
 
