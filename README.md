@@ -34,7 +34,7 @@
   </a>
   <h3 style="display: inline-block">Tools and Platforms</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,digitalocean,aws,lambda,rds,s3,postman,figma,jira,miro&perline=9" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,digitalocean,aws,lambda,rds,s3,postman,figma,jira,miro,notion&perline=9" />
   </a>
 </div>
 
