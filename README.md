@@ -20,21 +20,29 @@
   <a href="#user-content-toc">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,js,ts,go,cs" />
   </a>
-  <h3 style="display: inline-block">Front-end Web Development and Testing</h3>
+  <h3 style="display: inline-block">Front-end Web Development</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,playwright" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,vite,nextjs,tailwind" />
   </a>
   <h3 style="display: inline-block">Back-end Web Development and Databases</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,gin,nodejs,prisma,mysql,sqlserver,postgresql,mongo" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,gin,gorm,nodejs,prisma,mysql,sqlserver,postgresql,mongo" />
+  </a>
+  <h3 style="display: inline-block">Testing</h3>
+  <a href="#user-content-toc">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,postman" />
   </a>
   <h3 style="display: inline-block">Data Analytics</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bigquery,googlecolab,numpy,pandas,matplotlib" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,python,numpy,pandas,matplotlib,bigquery,googlecolab" />
   </a>
-  <h3 style="display: inline-block">Tools and Platforms</h3>
+  <h3 style="display: inline-block">DevOps and Cloud</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,linux,digitalocean,aws,lambda,rds,s3,postman,figma,jira,miro,notion&perline=9" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,linux,git,githubactions,aws,s3,lambda,rds,glue,digitalocean" />
+  </a>
+  <h3 style="display: inline-block">Productivity, Design, and Project Management</h3>
+  <a href="#user-content-toc">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,jira,miro,canva,notion" />
   </a>
 </div>
 
