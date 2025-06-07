@@ -34,11 +34,11 @@
   </a>
   <h3 style="display: inline-block">Data Analytics</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,python,numpy,pandas,matplotlib,bigquery,googlecolab" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,python,numpy,pandas,matplotlib,jupyter,googlecolab,bigquery,glue" />
   </a>
   <h3 style="display: inline-block">DevOps and Cloud</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,linux,git,githubactions,aws,s3,lambda,rds,glue,digitalocean" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,githubactions,linux,docker,aws,s3,lambda,rds,digitalocean,vercel" />
   </a>
   <h3 style="display: inline-block">Productivity, Design, and Project Management</h3>
   <a href="#user-content-toc">
