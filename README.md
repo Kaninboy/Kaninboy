@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hi, I'm Kanin Sukittivarapunt </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Senior Information and Communication Engineering at Chulalongkorn University</h3>
+<h3 align="center">Information and Communication Engineering Graduate from Chulalongkorn University</h3>
+<h3 align="center">System Analyst in the Retail Tech Industry</h3>
 
 <div id="user-content-toc">
   <ul align="left">
@@ -26,7 +27,7 @@
   </a>
   <h3 style="display: inline-block">Back-end Web Development and Databases</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,gin,gorm,nodejs,prisma,mysql,sqlserver,postgresql,mongo" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,gin,gorm,nodejs,express,prisma,mysql,sqlserver,postgresql,mongo" />
   </a>
   <h3 style="display: inline-block">Testing</h3>
   <a href="#user-content-toc">
