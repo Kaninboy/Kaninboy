@@ -6,7 +6,6 @@
   <ul align="left">
     <summary><h2 style="display: inline-block">About Me</h2></summary>
     <p>You can call me New 😎</p>
-    <p>I am currently learning full-stack web development 💻</p>
     <p>You can reach me via:</p>
     <a href="https://www.linkedin.com/in/kanin-sukittivarapunt"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" /></a>
     <a href="mailto:kanin.suk@outlook.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=outlook" /></a>
@@ -15,7 +14,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">Technologies 🧑🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies</h2></summary>
   </ul>
   <h3 style="display: inline-block">Programming Languages</h3>
   <a href="#user-content-toc">
@@ -23,11 +22,11 @@
   </a>
   <h3 style="display: inline-block">Front-end Web Development</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,vite,nextjs,tailwind" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,materialui,chakraui" />
   </a>
   <h3 style="display: inline-block">Back-end Web Development and Databases</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,gin,gorm,nodejs,express,prisma,mysql,sqlserver,postgresql,mongo" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,gin,gorm,nodejs,express,prisma,mysql,sqlserver,postgresql,mongo,dbeaver" />
   </a>
   <h3 style="display: inline-block">Testing</h3>
   <a href="#user-content-toc">
@@ -39,11 +38,11 @@
   </a>
   <h3 style="display: inline-block">DevOps and Cloud</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,githubactions,linux,docker,aws,s3,lambda,rds,digitalocean,vercel" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,githubactions,linux,docker,aws,s3,lambda,rds,azure,digitalocean,vercel" />
   </a>
-  <h3 style="display: inline-block">Productivity, Design, and Project Management</h3>
+  <h3 style="display: inline-block">System Design, Productivity, and Project Management</h3>
   <a href="#user-content-toc">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,jira,miro,canva,notion" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=uml,jira,confluence,azuredevops,figma,miro,canva,notion" />
   </a>
 </div>
 
